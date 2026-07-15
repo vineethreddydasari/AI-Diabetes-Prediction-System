@@ -2,8 +2,8 @@
 
 ### Home Page
 
-![Home Page](images/home.png.png)
+![Home Page](home.png.png)
 
 ### Prediction Result
 
-![Prediction Result](images/result.png.png)
+![Prediction Result](result.png.png)
